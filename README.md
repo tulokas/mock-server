@@ -15,7 +15,8 @@ A no brainer express backend to test signin process of a frontend application:
 
 include `email`, `password` and `keepLoggedIn` in the request body for example:
 
-```{
+```
+{
   "email": "anyemail@anything.anydomain",
   "password": "any-random-password",
   "keepLoggedIn": true
